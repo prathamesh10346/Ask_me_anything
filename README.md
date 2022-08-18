@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Here is the App where you and Ask and the app gives you the answer .
 
-<
+![ask-me](https://user-images.githubusercontent.com/102044916/185303238-c93b7741-d1a5-4718-a958-f3910aece32b.jpeg)
